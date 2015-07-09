@@ -16,3 +16,4 @@ Running `grunt test` will run the unit tests with karma.
 ##push到github
 ##branch测试
 ##--no-ff
+##bug fixed
