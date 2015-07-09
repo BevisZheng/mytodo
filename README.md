@@ -15,3 +15,4 @@ Running `grunt test` will run the unit tests with karma.
 ##撤销缓存区
 ##push到github
 ##branch测试
+##--no-ff
